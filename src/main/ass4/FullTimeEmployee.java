@@ -1,4 +1,4 @@
-package main.ASS4;
+package main.ASS4_NguyenTienDat;
 
 public class FullTimeEmployee extends Employee{
     private Double salary;
