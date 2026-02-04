@@ -1,4 +1,4 @@
-package main.ASS4_NguyenTienDat;
+package main.ass4;
 
 public class Elephant extends Animal{
     @Override

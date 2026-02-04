@@ -2,13 +2,13 @@ package main.asm6;
 
 import java.util.ArrayList;
 
-public class PhoneEntry {
+public class PhoneNumber {
     private String name;
     private ArrayList<String> phones;
 
-    public PhoneEntry(String name, String phone) {
+    public PhoneNumber(String name, String phone) {
         this.name = name;
-        this.phones = new ArrayList<>();
+        this.phones = new ArrayList<>(); //ko truyen array ma truyen phan tu
         this.phones.add(phone);
     }
 

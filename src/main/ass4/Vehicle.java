@@ -1,4 +1,4 @@
-package main.ASS4_NguyenTienDat;
+package main.ass4;
 
 public class Vehicle {
     private String name;

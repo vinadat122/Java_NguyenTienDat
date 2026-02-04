@@ -1,4 +1,4 @@
-package main.ASS4_NguyenTienDat;
+package main.ass4;
 
 public class Lion extends Animal{
     @Override

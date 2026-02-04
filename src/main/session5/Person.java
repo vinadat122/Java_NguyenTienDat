@@ -1,4 +1,24 @@
 package main.session5;
 
-public class Person {
+public abstract class Person { //day la 1 class truu tuong
+    private String fullName;
+    private String dob;
+
+    public String getFullName() {
+        return fullName;
+    }
+
+    public void setFullName(String fullName) {
+        this.fullName = fullName;
+    }
+
+    public String getDob() {
+        return dob;
+    }
+
+    public void setDob(String dob) {
+        this.dob = dob;
+    }
+    public abstract void eat();
+    public abstract void sleep();
 }

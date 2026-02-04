@@ -2,7 +2,7 @@ package main.session1;
 
 import java.util.ArrayList;
 
-public class Demo2 {
+public class Demo2_Mang {
     public static void main (String[] args){
 
         int[] arr = new int[]{1,2}; // khai báo 1 mảng int
